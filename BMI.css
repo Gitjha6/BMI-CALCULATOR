@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    
+}
+fieldset{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color:blueviolet;
+    width: 400px;
+    margin:0% auto ;
+    margin-top: 5%;
+    /* background-color:darkorchid; */
+    
+      
+}
+button{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color:white;
+    background-color:blueviolet;
+    border-radius:50px;
+    
+}
